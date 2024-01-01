@@ -1,0 +1,30 @@
+.btn1{
+   width: 70px;
+  height: 40px;;
+}
+.menu{
+  position: absolute;
+  left:1340px;
+  top:12px;
+  
+}
+.cart{
+  position: absolute;
+  left:1400px;
+  
+}
+.history{
+  position: absolute;
+  left:1355px;
+  
+}
+.bell{
+  position: absolute;
+  left:1445px;
+
+}
+.profile{
+  position: absolute;
+  left:1489px;
+
+}
